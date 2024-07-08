@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Daniel Cervera im Cybersecurity Engenier<br><br>Im work in Ogum my role is System Administrator, at same time im a junior developer with a few curses.</h2>
+<h2 align="left">Hi 👋! My name is Daniel Cervera im Cybersecurity Engenier<br><br>Im work in Ogum my role is System Administrator, at same time im a junior developer with a few curses, this are a few of tecnologies im work in my day, i count with a solid experience in terminal, my main system since 3 years ago is Linux Ubuntu 22.04 lts version.</h2>
 
 ###
 
