@@ -325,9 +325,9 @@ footer {
   <div class="sec-title">Sobre mí</div>
   <div class="about-grid">
     <div class="about-text">
-      <p>Ingeniero en <strong>Ciberseguridad</strong> con más de <strong>5 años</strong> de trayectoria construyendo infraestructura robusta, desplegando ERPs en producción y desarrollando aplicaciones web modernas.</p>
-      <p>Especializado en el ecosistema <strong>Odoo (v13–v19)</strong>: desde implementaciones funcionales hasta módulos personalizados con Python y QWeb. Opero cómodamente en stacks que combinan <strong>Linux, Docker, Nginx y PostgreSQL</strong>.</p>
-      <p>Actualmente explorando el desarrollo con <strong>Next.js e IA aplicada</strong> a soluciones empresariales. Basado en <strong>Mérida, Yucatán</strong>, con experiencia en equipos remotos y presenciales.</p>
+      <p>Hi 👋! My name is Daniel Cervera, and I’m a Cybersecurity Engineer. I work at Ogum as a System Administrator.</p>
+      <p>At the same time, I’m also a junior developer with a few courses completed. These are some of the technologies I work with in my day-to-day job.</p>
+      <p>I also have solid experience with the terminal, and my main system for the past three years has been Linux Ubuntu 22.04 LTS.</p>
     </div>
     <div class="about-stats">
       <div class="stat-row"><span class="stat-num">5+</span><span class="stat-label">años de experiencia</span></div>
@@ -373,9 +373,8 @@ footer {
   <div class="sec-title" style="text-align:center;margin-bottom:1rem">Conecta conmigo</div>
   <p style="font-family:var(--mono);font-size:0.82rem;color:var(--muted);margin-bottom:2rem">Disponible para proyectos freelance, posiciones remotas y colaboraciones open source.</p>
   <div class="contact-links">
-    <a class="c-link" href="mailto:daniel.cervera.2029@gmail.com">✉ daniel.cervera.2029@gmail.com</a>
-    <a class="c-link" href="https://github.com/Daniel-Cervera" target="_blank">⌥ github.com/Daniel-Cervera</a>
-    <a class="c-link" href="tel:+529381242205">✆ +52 938 124 2205</a>
+    <a class="c-link" href="mailto:daniel.cervera.2029@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+    <a class="c-link" href="https://linkedin.com/in/daniel-cervera" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
   </div>
 </section>
 
@@ -444,22 +443,19 @@ function TerminalHero() {
 
 /* ─── STACK GRID ─── */
 const STACK = [
-  { icon:'🐍', name:'Python',      cat:'Language' },
-  { icon:'⚡', name:'JavaScript',  cat:'Language' },
-  { icon:'🗄️', name:'SQL / XML',   cat:'Language' },
-  { icon:'🟦', name:'HTML / CSS',  cat:'Language' },
-  { icon:'⚙️', name:'Odoo v13–19', cat:'ERP' },
-  { icon:'📊', name:'QWeb Reports',cat:'ERP' },
-  { icon:'▲',  name:'Next.js',     cat:'Framework' },
-  { icon:'🟢', name:'Node.js',     cat:'Framework' },
-  { icon:'🚂', name:'Express.js',  cat:'Framework' },
-  { icon:'🐧', name:'Linux',       cat:'Infra' },
-  { icon:'🐳', name:'Docker',      cat:'Infra' },
-  { icon:'🌐', name:'Nginx',       cat:'Infra' },
-  { icon:'🔒', name:'SSL / TLS',   cat:'Infra' },
-  { icon:'🐘', name:'PostgreSQL',  cat:'Database' },
-  { icon:'🔧', name:'Git / GitHub',cat:'Tools' },
-  { icon:'🔑', name:'SSH / cPanel',cat:'Tools' },
+  { icon: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="26" alt="python"/>, name:'Python', cat:'Language' },
+  { icon: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="26" alt="javascript"/>, name:'JavaScript', cat:'Language' },
+  { icon: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="26" alt="html5"/>, name:'HTML5', cat:'Language' },
+  { icon: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="26" alt="css3"/>, name:'CSS3', cat:'Language' },
+  { icon: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="26" alt="linux"/>, name:'Linux', cat:'Infra' },
+  { icon: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="26" alt="ubuntu"/>, name:'Ubuntu', cat:'Infra' },
+  { icon: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="26" alt="git"/>, name:'Git', cat:'Tools' },
+  { icon: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="26" alt="docker"/>, name:'Docker', cat:'Infra' },
+  { icon: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="26" alt="nginx"/>, name:'Nginx', cat:'Infra' },
+  { icon: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="26" alt="postgresql"/>, name:'PostgreSQL', cat:'Database' },
+  { icon: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="26" alt="bootstrap"/>, name:'Bootstrap', cat:'Framework' },
+  { icon: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="26" alt="vscode"/>, name:'VS Code', cat:'Tools' },
+  { icon: <img src="https://odoocdn.com/openerp_website/static/src/img/assets/png/odoo_logo_inverted.png" height="26" alt="odoo"/>, name:'Odoo', cat:'ERP' },
 ];
 
 function StackGrid() {
