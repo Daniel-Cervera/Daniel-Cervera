@@ -1,76 +1,127 @@
-# Daniel Cervera — Portfolio Personal
+<div align="center">
+  <img src="./assets/profile-hero.svg" alt="Daniel Cervera - Cybersecurity Engineer, Odoo Developer and Systems Administrator" width="100%" />
+  <br /><br />
+  <a href="https://daniel-cervera.github.io/Daniel-Cervera/">
+    <img src="https://img.shields.io/badge/Portfolio-GitHub%20Pages-00D4FF?style=for-the-badge&amp;labelColor=080B0F" alt="Portfolio on GitHub Pages" />
+  </a>
+  <a href="mailto:daniel.cervera.2029@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D9A441?style=for-the-badge&amp;labelColor=080B0F" alt="Email contact" />
+  </a>
+  <a href="https://github.com/Daniel-Cervera">
+    <img src="https://img.shields.io/badge/GitHub-Daniel--Cervera-5A6A80?style=for-the-badge&amp;labelColor=080B0F" alt="GitHub profile" />
+  </a>
+</div>
 
-Bienvenido a mi portfolio personal interactivo. Soy **Cybersecurity Engineer · Odoo Developer · Systems Administrator** con más de 5 años de experiencia en implementación de sistemas ERP, administración de infraestructura y desarrollo full stack.
+<br />
 
-## 🚀 Características
+> Disponible para proyectos remotos, colaboraciones open source y retos que combinen **Cybersecurity**, backend robusto, Odoo e infraestructura Linux.
 
-- **Diseño cinematográfico oscuro** con tipografía premium (Space Grotesk + Space Mono)
-- **Terminal animado interactivo** en la sección hero
-- **Tech Stack dinámico** con filtrado por categorías
-- **Timeline profesional** de 5+ años de experiencia
-- **Proyectos destacados** con links a repositorios
-- **Navegación suave** y responsiva
-- **100% HTML5 + CSS3 + JavaScript vanilla** — sin dependencias externas
+```bash
+~$ whoami
+daniel_cervera_martinez
 
-## 📂 Estructura
+~$ cat roles.txt
+> Cybersecurity Engineer
+> Odoo Developer  (v13-v19)
+> Systems Administrator
+> Full Stack Developer
 
+~$ uname -a
+Linux ubuntu 22.04 LTS | Docker | Nginx | PostgreSQL
+
+~$ echo $STATUS
+open to remote work & new challenges
 ```
-.
-├── index.html          # Página principal del portfolio
-├── README.md           # Este archivo
-└── ...
-```
 
-## 🎨 Diseño
+## // 01 - Perfil
 
-- **Fondo**: `#080b0f` con grid decorativo y glow teal central
-- **Acentos**: Teal (`oklch(0.68 0.16 195)`) y Gold (`oklch(0.76 0.14 68)`)
-- **Tipografía**: Space Grotesk (headings) + Space Mono (terminal, código, UI)
-- **Secciones**: Hero, Sobre mí, Tech Stack, Experiencia, Proyectos, Contacto
+Soy un **profesional en tecnología** con más de **5 años de experiencia** implementando sistemas ERP, administrando infraestructura y desarrollando soluciones full stack. Mi especialidad es **Odoo**, desde la versión 13 hasta la 19, combinando implementación funcional, módulos personalizados con Python y reportes QWeb.
 
-## 🌐 Alojamiento
+Mi trayectoria ha evolucionado desde **implementador especializado** hasta **administrador de sistemas** y **desarrollador full stack**. Trabajo cómodo en entornos que mezclan **Linux, Docker, Nginx, PostgreSQL, seguridad, automatización y despliegues en producción**.
 
-**Opción 1: GitHub Pages (recomendado)**
-1. Ir a Settings → Pages
-2. Seleccionar rama `main` como source
-3. El portfolio se desplegará en `https://daniel-cervera.github.io/Daniel-Cervera`
+Actualmente exploro desarrollo con **Next.js e IA aplicada** a soluciones empresariales. Estoy basado en **Mérida, Yucatán**, con experiencia en equipos remotos y presenciales.
 
-**Opción 2: Hosting independiente**
-- Copiar `index.html` a cualquier servidor web estático
+<table>
+  <tr>
+    <td align="center" width="25%"><strong>5+</strong><br /><sub>años de experiencia</sub></td>
+    <td align="center" width="25%"><strong>v13-v19</strong><br /><sub>Odoo dominado</sub></td>
+    <td align="center" width="25%"><strong>4</strong><br /><sub>empresas y roles progresivos</sub></td>
+    <td align="center" width="25%"><strong>B2+</strong><br /><sub>inglés técnico</sub></td>
+  </tr>
+</table>
 
-## 📊 Stack Técnico
+## // 02 - Tech Stack
 
-| Categoría | Tecnologías |
-|-----------|------------|
-| **Lenguajes** | Python, JavaScript, SQL, HTML/CSS |
-| **ERP** | Odoo v13–v19, QWeb Reports |
-| **Frameworks** | Next.js, Node.js, Express.js |
-| **Infra** | Linux, Docker, Nginx, SSL/TLS |
-| **Base Datos** | PostgreSQL |
-| **Herramientas** | Git, GitHub, SSH, cPanel |
+<table>
+  <tr>
+    <td width="33%">
+      <strong>Language</strong><br /><br />
+      <code>Python</code> <code>JavaScript</code> <code>SQL / XML</code> <code>HTML / CSS</code>
+    </td>
+    <td width="33%">
+      <strong>ERP</strong><br /><br />
+      <code>Odoo v13-v19</code> <code>QWeb Reports</code>
+    </td>
+    <td width="33%">
+      <strong>Framework</strong><br /><br />
+      <code>Next.js</code> <code>Node.js</code> <code>Express.js</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%">
+      <strong>Infra</strong><br /><br />
+      <code>Linux</code> <code>Docker</code> <code>Nginx</code> <code>SSL / TLS</code>
+    </td>
+    <td width="33%">
+      <strong>Database</strong><br /><br />
+      <code>PostgreSQL</code>
+    </td>
+    <td width="33%">
+      <strong>Tools</strong><br /><br />
+      <code>Git / GitHub</code> <code>SSH / cPanel</code>
+    </td>
+  </tr>
+</table>
 
-## 💼 Experiencia Reciente
+## // 03 - Experiencia
 
-- **Elemetic** (Oct 2025–Dic 2025): Desarrollador / Implementador
-- **Matadryve** (Abr 2025–Ago 2025): Full Stack Developer · IA + AR
-- **Waykna** (Nov 2024–Mar 2025): Implementador Odoo 17
-- **OGUM Consultoría** (Jun 2022–Sep 2024): Admin Sistemas · Dev Junior
+| Fecha | Rol / Empresa | Enfoque |
+| --- | --- | --- |
+| Oct 2025 - Dic 2025 | **Desarrollador / Implementador** · Elemetic | Soluciones Odoo, Python, Linux y entornos de producción. |
+| Abr 2025 - Ago 2025 | **Desarrollador Full Stack** · Matadryve | ERP con IA y AR, backend/frontend, bases de datos y trabajo ágil. |
+| Nov 2024 - Mar 2025 | **Implementador de Odoo** · Waykna | Facturación, POS, inventarios, contabilidad, migraciones y PostgreSQL. |
+| Jun 2022 - Sep 2024 | **Administrador de Sistemas · Dev Junior** · OGUM Consultoría en TI y RH | Instancias Odoo en producción, Nginx, SSL, Docker, Linux Ubuntu y PostgreSQL. |
+| May 2020 - Jun 2022 | **Implementador de Odoo** · OGUM Consultoría en TI y RH | Configuración funcional, migración de información y soporte a usuarios finales. |
 
-## 📧 Contacto
+## // 04 - Proyectos
 
-- **Email**: [daniel.cervera.2029@gmail.com](mailto:daniel.cervera.2029@gmail.com)
-- **GitHub**: [github.com/Daniel-Cervera](https://github.com/Daniel-Cervera)
-- **Teléfono**: +52 938 124 2205
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Server Management Module - Odoo 17</h3>
+      <p>Módulo open source integrado en Odoo 17 para administración de servidores: verificación de conexiones, monitoreo de servicios como Nginx y Odoo, y visualización de commits de GitHub.</p>
+      <p><code>Python</code> <code>Odoo 17</code> <code>Linux</code> <code>API</code></p>
+      <a href="https://github.com/Daniel-Cervera">→ GitHub</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Videojuego Indie 2D</h3>
+      <p>Videojuego 2D desarrollado en Python como recurso de aprendizaje y práctica para la comunidad de desarrolladores. Proyecto abierto, iterativo y orientado a compartir conocimiento.</p>
+      <p><code>Python</code> <code>Game Dev</code> <code>Open Source</code></p>
+      <a href="https://github.com/Daniel-Cervera">→ GitHub</a>
+    </td>
+  </tr>
+</table>
 
-## 📝 Notas
+## // 05 - Contacto
 
-Este portfolio fue diseñado con atención al detalle, incluyendo:
-- Animaciones suaves (cursor parpadeante, pulse badge, hover effects)
-- Filtrado dinámico del tech stack
-- Scroll suave a secciones
-- Responsive design para móvil/desktop
-- Texto estructurado con énfasis en keywords clave
-
----
-
-**Disponible para nuevos proyectos remotos y desafíos que combinen Cybersecurity, desarrollo backend robusto y soluciones a escala.**
+<div align="center">
+  <a href="mailto:daniel.cervera.2029@gmail.com">
+    <img src="https://img.shields.io/badge/daniel.cervera.2029%40gmail.com-Email-D9A441?style=for-the-badge&amp;labelColor=080B0F" alt="Email Daniel Cervera" />
+  </a>
+  <a href="https://github.com/Daniel-Cervera">
+    <img src="https://img.shields.io/badge/github.com%2FDaniel--Cervera-GitHub-00D4FF?style=for-the-badge&amp;labelColor=080B0F" alt="GitHub Daniel Cervera" />
+  </a>
+  <a href="tel:+529381242205">
+    <img src="https://img.shields.io/badge/%2B52%20938%20124%202205-Tel%C3%A9fono-5A6A80?style=for-the-badge&amp;labelColor=080B0F" alt="Phone Daniel Cervera" />
+  </a>
+</div>

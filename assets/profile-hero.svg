@@ -1,0 +1,100 @@
+<svg width="1200" height="560" viewBox="0 0 1200 560" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Daniel Cervera - Portfolio hero</title>
+  <desc id="desc">Cinematic dark GitHub profile banner for Daniel Cervera, cybersecurity engineer, Odoo developer and systems administrator.</desc>
+  <defs>
+    <linearGradient id="fadeTop" x1="600" y1="0" x2="600" y2="155" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#080B0F"/>
+      <stop offset="1" stop-color="#080B0F" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="tealGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(615 290) rotate(90) scale(330 480)">
+      <stop stop-color="#00D4FF" stop-opacity="0.22"/>
+      <stop offset="0.55" stop-color="#00D4FF" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#00D4FF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="terminalBorder" x1="666" y1="115" x2="1120" y2="472" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00D4FF" stop-opacity="0.55"/>
+      <stop offset="0.52" stop-color="#1E3C5A" stop-opacity="0.65"/>
+      <stop offset="1" stop-color="#D9A441" stop-opacity="0.45"/>
+    </linearGradient>
+    <pattern id="grid" width="50" height="50" patternUnits="userSpaceOnUse">
+      <path d="M 50 0 L 0 0 0 50" fill="none" stroke="#00C8FF" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+    <filter id="softShadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="24" stdDeviation="28" flood-color="#00D4FF" flood-opacity="0.13"/>
+    </filter>
+    <filter id="grain">
+      <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="3" seed="8"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feComponentTransfer>
+        <feFuncA type="table" tableValues="0 0.10"/>
+      </feComponentTransfer>
+    </filter>
+    <style>
+      .sans { font-family: "Space Grotesk", "Segoe UI", Arial, sans-serif; }
+      .mono { font-family: "Space Mono", "SFMono-Regular", Consolas, monospace; }
+      .muted { fill: #5A6A80; }
+      .text { fill: #DDE4EE; }
+      .teal { fill: #00D4FF; }
+      .gold { fill: #D9A441; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="560" fill="#080B0F"/>
+  <rect width="1200" height="560" fill="url(#grid)"/>
+  <rect width="1200" height="560" fill="url(#tealGlow)"/>
+  <rect width="1200" height="560" filter="url(#grain)" opacity="0.34"/>
+  <rect width="1200" height="155" fill="url(#fadeTop)"/>
+
+  <text x="70" y="62" class="mono teal" font-size="18" font-weight="700" letter-spacing="4">DCM_</text>
+  <text x="811" y="62" class="mono muted" font-size="12" letter-spacing="2">PERFIL</text>
+  <text x="889" y="62" class="mono muted" font-size="12" letter-spacing="2">STACK</text>
+  <text x="962" y="62" class="mono muted" font-size="12" letter-spacing="2">EXP</text>
+  <text x="1015" y="62" class="mono muted" font-size="12" letter-spacing="2">PROYECTOS</text>
+
+  <g transform="translate(70 112)">
+    <rect x="0" y="0" width="265" height="36" rx="18" fill="#00D4FF" fill-opacity="0.06" stroke="#00D4FF" stroke-opacity="0.78"/>
+    <circle cx="22" cy="18" r="5" fill="#00D4FF"/>
+    <text x="39" y="23" class="mono teal" font-size="11" font-weight="700" letter-spacing="1.2">DISPONIBLE PARA PROYECTOS</text>
+  </g>
+
+  <text x="70" y="229" class="sans text" font-size="74" font-weight="700" letter-spacing="0">Daniel</text>
+  <text x="70" y="310" class="sans teal" font-size="74" font-weight="700" letter-spacing="0">Cervera</text>
+  <text x="74" y="356" class="mono muted" font-size="18">Cybersecurity Eng · Odoo Dev · </text>
+  <text x="411" y="356" class="mono gold" font-size="18" font-weight="700">Systems Administrator</text>
+  <text x="74" y="392" class="mono muted" font-size="15">Merida, Yucatan · Remote ready · Linux / Docker / Nginx / PostgreSQL</text>
+
+  <g transform="translate(70 432)">
+    <rect x="0" y="0" width="116" height="62" rx="5" fill="#0D1218" stroke="#1E3C5A" stroke-opacity="0.75"/>
+    <text x="18" y="30" class="sans teal" font-size="25" font-weight="700">5+</text>
+    <text x="18" y="48" class="mono muted" font-size="10" letter-spacing="1">YEARS</text>
+    <rect x="132" y="0" width="116" height="62" rx="5" fill="#0D1218" stroke="#1E3C5A" stroke-opacity="0.75"/>
+    <text x="150" y="30" class="sans teal" font-size="25" font-weight="700">v13-19</text>
+    <text x="150" y="48" class="mono muted" font-size="10" letter-spacing="1">ODOO</text>
+    <rect x="264" y="0" width="116" height="62" rx="5" fill="#0D1218" stroke="#1E3C5A" stroke-opacity="0.75"/>
+    <text x="282" y="30" class="sans teal" font-size="25" font-weight="700">B2+</text>
+    <text x="282" y="48" class="mono muted" font-size="10" letter-spacing="1">ENGLISH</text>
+  </g>
+
+  <g transform="translate(650 114)" filter="url(#softShadow)">
+    <rect x="0" y="0" width="480" height="364" rx="7" fill="#0D1218" stroke="url(#terminalBorder)" stroke-opacity="0.9"/>
+    <rect x="1" y="1" width="478" height="46" rx="6" fill="#0A0D12"/>
+    <circle cx="27" cy="24" r="6" fill="#FF5F57"/>
+    <circle cx="48" cy="24" r="6" fill="#FFBD2E"/>
+    <circle cx="69" cy="24" r="6" fill="#28C840"/>
+    <text x="173" y="29" class="mono muted" font-size="12">bash - daniel@portfolio:~</text>
+
+    <text x="28" y="84" class="mono muted" font-size="14">~$ whoami</text>
+    <text x="28" y="111" class="mono teal" font-size="14">daniel_cervera_martinez</text>
+
+    <text x="28" y="154" class="mono muted" font-size="14">~$ cat roles.txt</text>
+    <text x="28" y="181" class="mono gold" font-size="14">&gt; Cybersecurity Engineer</text>
+    <text x="28" y="206" class="mono gold" font-size="14">&gt; Odoo Developer  (v13-v19)</text>
+    <text x="28" y="231" class="mono gold" font-size="14">&gt; Systems Administrator</text>
+    <text x="28" y="256" class="mono gold" font-size="14">&gt; Full Stack Developer</text>
+
+    <text x="28" y="299" class="mono muted" font-size="14">~$ echo $STATUS</text>
+    <text x="28" y="326" class="mono teal" font-size="14">open to remote work &amp; new challenges</text>
+    <text x="28" y="352" class="mono muted" font-size="14">~$ _</text>
+    <rect x="76" y="339" width="9" height="17" fill="#00D4FF"/>
+  </g>
+</svg>
