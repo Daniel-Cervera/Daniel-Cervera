@@ -1,75 +1,76 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Daniel+Cervera+👋;Cybersecurity+Engineer+🛡️;System+Administrator+💻;Odoo+Developer+⚙️" alt="Typing SVG" />
-</div>
+# Daniel Cervera — Portfolio Personal
+
+Bienvenido a mi portfolio personal interactivo. Soy **Cybersecurity Engineer · Odoo Developer · Systems Administrator** con más de 5 años de experiencia en implementación de sistemas ERP, administración de infraestructura y desarrollo full stack.
+
+## 🚀 Características
+
+- **Diseño cinematográfico oscuro** con tipografía premium (Space Grotesk + Space Mono)
+- **Terminal animado interactivo** en la sección hero
+- **Tech Stack dinámico** con filtrado por categorías
+- **Timeline profesional** de 5+ años de experiencia
+- **Proyectos destacados** con links a repositorios
+- **Navegación suave** y responsiva
+- **100% HTML5 + CSS3 + JavaScript vanilla** — sin dependencias externas
+
+## 📂 Estructura
+
+```
+.
+├── index.html          # Página principal del portfolio
+├── README.md           # Este archivo
+└── ...
+```
+
+## 🎨 Diseño
+
+- **Fondo**: `#080b0f` con grid decorativo y glow teal central
+- **Acentos**: Teal (`oklch(0.68 0.16 195)`) y Gold (`oklch(0.76 0.14 68)`)
+- **Tipografía**: Space Grotesk (headings) + Space Mono (terminal, código, UI)
+- **Secciones**: Hero, Sobre mí, Tech Stack, Experiencia, Proyectos, Contacto
+
+## 🌐 Alojamiento
+
+**Opción 1: GitHub Pages (recomendado)**
+1. Ir a Settings → Pages
+2. Seleccionar rama `main` como source
+3. El portfolio se desplegará en `https://daniel-cervera.github.io/Daniel-Cervera`
+
+**Opción 2: Hosting independiente**
+- Copiar `index.html` a cualquier servidor web estático
+
+## 📊 Stack Técnico
+
+| Categoría | Tecnologías |
+|-----------|------------|
+| **Lenguajes** | Python, JavaScript, SQL, HTML/CSS |
+| **ERP** | Odoo v13–v19, QWeb Reports |
+| **Frameworks** | Next.js, Node.js, Express.js |
+| **Infra** | Linux, Docker, Nginx, SSL/TLS |
+| **Base Datos** | PostgreSQL |
+| **Herramientas** | Git, GitHub, SSH, cPanel |
+
+## 💼 Experiencia Reciente
+
+- **Elemetic** (Oct 2025–Dic 2025): Desarrollador / Implementador
+- **Matadryve** (Abr 2025–Ago 2025): Full Stack Developer · IA + AR
+- **Waykna** (Nov 2024–Mar 2025): Implementador Odoo 17
+- **OGUM Consultoría** (Jun 2022–Sep 2024): Admin Sistemas · Dev Junior
+
+## 📧 Contacto
+
+- **Email**: [daniel.cervera.2029@gmail.com](mailto:daniel.cervera.2029@gmail.com)
+- **GitHub**: [github.com/Daniel-Cervera](https://github.com/Daniel-Cervera)
+- **Teléfono**: +52 938 124 2205
+
+## 📝 Notas
+
+Este portfolio fue diseñado con atención al detalle, incluyendo:
+- Animaciones suaves (cursor parpadeante, pulse badge, hover effects)
+- Filtrado dinámico del tech stack
+- Scroll suave a secciones
+- Responsive design para móvil/desktop
+- Texto estructurado con énfasis en keywords clave
 
 ---
 
-### 👨‍💻 Sobre mí
-
-¡Bienvenido a mi GitHub! Soy **Ingeniero en Ciberseguridad** y **Administrador de Sistemas** actualmente trabajando en Ogum. Me apasiona construir infraestructuras seguras y explorar el desarrollo de software.
-
-- 🐧 **Entusiasta de Linux**: Mi sistema principal durante los últimos 3 años ha sido Linux Ubuntu 22.04 LTS. Me siento muy cómodo navegando, administrando servidores y creando scripts en la terminal.
-- 💻 **Desarrollo**: Continúo expandiendo mis habilidades como desarrollador junior, enfocado fuertemente en el backend, bases de datos y la personalización de sistemas empresariales como **Odoo**.
-- 🛡️ **Ciberseguridad**: Siempre aprendiendo sobre el hardening de sistemas, seguridad de redes y mejores prácticas.
-
----
-
-### 🛠️ Tech Stack y Herramientas
-
-**Lenguajes de Programación**  
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" title="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" title="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" title="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" title="CSS3" />
-</div>
-<br/>
-
-**Infraestructura, DevOps y Bases de Datos**  
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" title="Linux" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo" title="Ubuntu" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" title="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" title="Docker" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo" title="Nginx" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" title="PostgreSQL" />
-</div>
-<br/>
-
-**Frameworks y Sistemas Empresariales**  
-<div align="left">
-  <img height="40" src="https://odoocdn.com/openerp_website/static/src/img/assets/png/odoo_logo_inverted.png" title="Odoo" alt="Odoo Logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" title="Bootstrap" />
-</div>
-
----
-
-### 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Daniel-Cervera&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Daniel's GitHub Stats" />
-  <img width="12" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daniel-Cervera&theme=radical&hide_border=true&background=0D1117" alt="Daniel's GitHub Streak" />
-</div>
-
----
-
-### 📬 Conecta conmigo
-
-<div align="center">
-  <a href="mailto:tucorreo@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://linkedin.com/in/tu-usuario" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+**Disponible para nuevos proyectos remotos y desafíos que combinen Cybersecurity, desarrollo backend robusto y soluciones a escala.**
